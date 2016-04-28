@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return [[TeleManagerPlus
+  return [[Telecloner
   
   Bot Version : 2.2.0
   
