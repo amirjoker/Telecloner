@@ -264,7 +264,8 @@ function create_config( )
     "getwelcome",
     "set_type",
     "server",
-    "voice"
+    "voice",
+    "launch_sh"
     },
     sudo_users = {176809822,197750031},--Sudo users
     disabled_channels = {},
