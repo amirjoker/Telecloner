@@ -141,7 +141,7 @@ member
  local member = [[
  
  راهنمای فارسی عضو ها :
- @telemanager_ch
+ @telecloner_ch
  
  !calc [formula]
  
