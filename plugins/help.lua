@@ -4,7 +4,7 @@ function run(msg, matches)
 
 local mods = [[ 
 راهنما فارسی مدیران :
-@telemanager_ch
+@telecloner_ch
 
 !kick [Username | ID | Reply]
 
@@ -65,7 +65,7 @@ member
  local admin = [[ 
  
  راهنمای فارسی ادمین ها :
- @telemanager_ch
+ @telecloner_ch
  
  !banall [Reply | ID | Username]
  
